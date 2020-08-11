@@ -1,0 +1,23 @@
+[33mcommit e4e8bf039528e5d53b6e79ef33d596ec63d5e23c[m[33m ([m[1;36mHEAD -> [m[1;32mlogin[m[33m)[m
+Author: Rafael Ogando <rogando66@gmail.com>
+Date:   Tue Aug 11 15:48:57 2020 -0400
+
+    Versión alternativa con un login
+
+[33mcommit e934860b4a2bf64001753241c2446ae1f506a135[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Rafael Ogando <rogando66@gmail.com>
+Date:   Tue Aug 11 15:38:45 2020 -0400
+
+    Agregamos en la v0.3 el archivo .gitignore
+
+[33mcommit a64b5e0b34d5e6c9cf8a91148d531133d97fa002[m
+Author: Rafael Ogando <rogando66@gmail.com>
+Date:   Tue Aug 11 15:12:25 2020 -0400
+
+    Nuevos cambios realizados v0.2
+
+[33mcommit 892976994b589d2409a93cd23696a65190280499[m
+Author: Rafael Ogando <rogando66@gmail.com>
+Date:   Tue Aug 11 14:07:08 2020 -0400
+
+    Este es mi primer stage y commit
